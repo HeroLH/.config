@@ -1,0 +1,12 @@
+# ignore everything
+/*
+/*/
+
+# ... but these:
+!/.gitignore
+!/alacritty/
+!/neofetch/
+!/ranger/
+ranger/plugins/__pycache__/*
+ranger/colorschemes/__pycache__/*
+!/cp_to_homeroot/
