@@ -5,6 +5,7 @@
 # ... but these:
 !/.gitignore
 !/alacritty/
+!/chfs/
 !/neofetch/
 !/ranger/
 ranger/plugins/__pycache__/*
